@@ -198,3 +198,5 @@ FakesAssemblies/
 *Solved.cs
 
 .idea/
+
+*/.DS_Store
