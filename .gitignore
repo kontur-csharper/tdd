@@ -198,3 +198,6 @@ FakesAssemblies/
 *Solved.cs
 
 .idea/
+
+# Log visualization tests
+LayoutImage/
